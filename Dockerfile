@@ -32,3 +32,4 @@ WORKDIR /src
 #  Defines your runtime(define default command)
 # These commands unlike RUN (they are carried out in the construction of the container) are run when the container
 #CMD ["node", "/src/http.js"]
+#bye
